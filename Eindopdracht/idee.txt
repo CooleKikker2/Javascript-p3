@@ -1,0 +1,8 @@
+Groepje 6: Daphne Mol en Coen Vink.
+Klas: 2wdv1-b
+
+Ons idee: Wij willen graag Boter, kaas en eieren (tic tac toe) gaan maken met react. We maken het zo dat er 2 spelers zijn die het tegen elkaar opnemen.
+Het lijkt ons een leuke uitdaging om dit spel te maken, omdat wij nog nooit hebben gewerkt met React en ons dit niet te moeilijk lijkt.
+
+(eventueel spelen op afstand(in geval van tijd over ;))
+    
